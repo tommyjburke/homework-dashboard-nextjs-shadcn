@@ -1,0 +1,68 @@
+{
+   "homeworks": [
+      {
+         "id": "1",
+         "title": "Capital Cities",
+         "image": "https://m.media-amazon.com/images/I/8190H7GgKdL._AC_UF894,1000_QL80_.jpg",
+         "time": 20,
+         "description": "A test about capital cities.",
+         "timer": false
+      },
+      {
+         "id": "2",
+         "title": "Algebra Equations",
+         "image": "https://cdn1.byjus.com/wp-content/uploads/2020/10/Basic-Of-Algebra.png",
+         "time": 45,
+         "description": "A test covering algebraic equations and problem-solving.",
+         "timer": true
+      },
+      {
+         "id": "3",
+         "title": "World History",
+         "image": "https://cdn1.byjus.com/wp-content/uploads/2020/10/Basic-Of-Algebra.png",
+         "time": 60,
+         "description": "An exam on major events and figures in world history.",
+         "timer": true
+      },
+      {
+         "id": "4",
+         "title": "English Literature",
+         "image": "https://cdn1.byjus.com/wp-content/uploads/2020/10/Basic-Of-Algebra.png",
+         "time": 75,
+         "description": "A test analyzing literary works and their themes.",
+         "timer": false
+      },
+      {
+         "id": "5",
+         "title": "Biology Concepts",
+         "image": "https://cdn1.byjus.com/wp-content/uploads/2020/10/Basic-Of-Algebra.png",
+         "time": 50,
+         "description": "An exam covering fundamental concepts in biology.",
+         "timer": true
+      },
+      {
+         "id": "6",
+         "title": "Spanish Vocabulary",
+         "image": "https://cdn1.byjus.com/wp-content/uploads/2020/10/Basic-Of-Algebra.png",
+         "time": 30,
+         "description": "A test on common Spanish vocabulary words.",
+         "timer": false
+      },
+      {
+         "id": "7",
+         "title": "Geometry Proofs",
+         "image": "https://artofproblemsolving.com/wiki/images/7e/7e1ProofByContradiction.jpg",
+         "time": 90,
+         "description": "An exam requiring students to write geometric proofs.",
+         "timer": true
+      },
+      {
+         "id": "8",
+         "title": "Chemistry Equations",
+         "image": "https://www.sciencemag.org/sites/default/files/styles/article_main_image_-_800px_wide/public/2018/08/chem_reactions.jpg",
+         "time": 60,
+         "description": "A test on balancing chemical equations and reactions.",
+         "timer": true
+      }
+   ]
+}
